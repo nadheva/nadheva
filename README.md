@@ -13,13 +13,13 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
 ## 📝 About Me 💬 
 - 💻 I’m currently working on **Web Programming**
 - 🤔 My interests are **Data Science, Domain & Hosting**
-- 🕵️‍I want to be Data Analist
+- 🕵️‍I want to be a Data Analist
 - 👯 I'm part of [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
 - 💼 I’m still a **college student**
 - 💬 please contact me if you have a problem with programming haha, but i'm still learn about programming 
 - 📫 Please text me via e-mail **nadheva17@student.uns.ac.id**
 <p>
-  <a href="https://wa.me/6285735691019?text=Assalamualaikum">
+  <a href="https://wa.me/6285735691018?text=Assalamualaikum">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=black" />    
   </a>
   <a href="https://instagram.com/thelifeofdeva">
