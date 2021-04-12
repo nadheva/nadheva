@@ -12,8 +12,8 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
 
 ## 📝 About Me 💬 
 - 💻 I’m currently working on **Web Programming**
-- 🤔 My interests are **Data Science, Domain & Hosting**
-- 🕵️‍I want to be a Data Analist
+- 🤔 My interests are **Data Science, Web Development, and Android**
+- 🕵️‍I want to be a Data Analist (Aamiin)
 - 👯 I'm part of [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
 - 💼 I’m still a **college student**
 - 💬 please contact me if you have a problem with programming haha, but i'm still learn about programming 
