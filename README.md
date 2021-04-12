@@ -8,7 +8,6 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
   <a><img src="https://img.shields.io/badge/windows-black?logo=windows&logoColor=blue&style=for-the-badge" /></a>
   <a><img src="https://img.shields.io/badge/android-%23FF5722.svg?logo=android&logoColor=green&style=for-the-badge" /></a>
 </p>
-<img width="300" align="right" src="https://imgbin.com/png/jBgPKBsn/spongebob-squarepants-the-broadway-musical-patrick-star-sandy-cheeks-squidward-tentacles-png">
 
 ## 📝 About Me 💬 
 - 💻 I’m currently working on **Web Programming**
