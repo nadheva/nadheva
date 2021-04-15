@@ -15,7 +15,7 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
 - 🕵️‍I want to be a Data Analist (Aamiin)
 - 👯 I'm part of [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
 - 💼 I’m still a **college student**
-- 💬 please contact me if you have a problem with programming haha, but i'm still learn about programming 
+- 💬 please contact me if you have a problem with programming haha, but i still learn about programming 
 - 📫 Please text me via e-mail **nadheva17@student.uns.ac.id**
 <p>
   <a href="https://wa.me/6285735691018?text=Assalamualaikum">
