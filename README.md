@@ -34,7 +34,7 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r%20-%23323330.svg?&style=for-the-badge&logo=r&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r%20-%23323330.svg?&style=for-the-badge&logo=r&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB) ![Ruby](https://img.shields.io/badge/ruby%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=yellow)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadheva&layout=compact&theme=bluesky)
 ![Nadheva Derdika's github stats](https://github-readme-stats.vercel.app/api?username=nadheva&show_icons=true&theme=bluesea)
