@@ -21,7 +21,7 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
   <a href="https://wa.me/6285735691018?text=Assalamualaikum">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=black" />    
   </a>
-  <a href="https://instagram.com/dave__1304">
+  <a href="https://instagram.com/thelifeofdeva">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" />        
   </a>
   <a href="mailto:nadheva17@student.uns.ac.id">
