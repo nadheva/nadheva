@@ -10,9 +10,9 @@ Hi I'm Deva, I'm college student at **Sebelas Maret University** majoring at **I
 </p>
 
 ## 📝 About Me 💬 
-- 💻 I’m currently working on **Web Programming**
-- 🤔 My interests are **Web Programming with Laravel and Codeigniter**
-- 🕵️‍I want to be a Web Developer (Aamiin)
+- 💻 I’m currently working on **Mobile Apps development**
+- 🤔 My interests are **Web and App Development**
+- 🕵️‍I want to be a Software Engineer (Aamiin)
 - 👯 I'm part of [**@Labkom FMIPA UNS**](https://github.com/labkom-mipa-uns)
 - 💼 I’m still a **college student**
 - 💬 please contact me if you have a problem with programming haha, but i still learn about programming 
